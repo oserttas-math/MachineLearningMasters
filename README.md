@@ -1,7 +1,7 @@
 # MachineLearningMasters
 This repository consists of all the coursework and projects towards attaining the required skills to pursue machine learning
 
-** Syllabus
+**Syllabus
 
 **Preparatory Coursework
 
