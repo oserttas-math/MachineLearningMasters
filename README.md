@@ -1,31 +1,55 @@
 # MachineLearningMasters
 This repository consists of all the coursework and projects towards attaining the required skills to pursue machine learning
 
+**Stanford info
+
+SCPD Stanford Website
+https://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1240861
+
+Program sheet
+http://cs.stanford.edu/degrees/mscs/programsheets/
+
 **Syllabus
 
-**Preparatory Coursework
+**Preparatory Coursework for Stanford
 
 1. Programming methodology
 https://see.stanford.edu/Course/CS106A
 
 2. Algorithms
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
+
+3. Linear Algebra
+https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/
+
+4. Probability 
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/
+
+**Additional Courses
+
+Programming Abstractions
+https://see.stanford.edu/Course/CS106B
+
+**Other optional prerequisities
+
+1. Algorithms
 https://www.coursera.org/specializations/algorithms
 Prerequisites : Programming Methodology
 
-3. Mathematics for computer science
+2. Mathematics for computer science
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/
 
-4. Fundamentals of probability
+3. Fundamentals of probability
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-436j-fundamentals-of-probability-fall-2008/index.htm
 
-5. Linear Algebra
+4. Linear Algebra
 https://www.khanacademy.org/math/linear-algebra
 
-6. Calculus
+5. Calculus
 Multivariable Calculus
 https://www.khanacademy.org/math/multivariable-calculus
 
-7. Differential Equations
+6. Differential Equations
 https://www.khanacademy.org/math/differential-equations
 
 
